@@ -440,7 +440,7 @@
 							"    const badNotePayloads = pm.environment.get('badNotePayloads');",
 							"    ",
 							"    if(badNotePayloads && badNotePayloads.length > 0) {",
-							"        postman.setNextRequest('Update Notes with Bad Note Payload');",
+							"        postman.setNextRequest('Update Note with Bad Note Payload');",
 							"    }",
 							"}",
 							"    ",
@@ -520,7 +520,8 @@
 							"    });\r",
 							"});"
 						],
-						"type": "text/javascript"
+						"type": "text/javascript",
+						"packages": {}
 					}
 				}
 			],
