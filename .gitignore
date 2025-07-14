@@ -1,2 +1,4 @@
 node_modules
 package-lock.json
+albudi_credentials.csv
+notes-api-webserver.pem
