@@ -1,6 +1,7 @@
 node_modules
 package-lock.json
 albudi_credentials.csv
+albudi_accessKeys.csv
 notes-api-webserver.pem
 .env
 .prod.env
